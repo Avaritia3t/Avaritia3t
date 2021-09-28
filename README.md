@@ -2,13 +2,13 @@ Hello, my name is Mathew.
 
 I spent most of my life hesitant to program, but have picked it up with a passion! Currently interested in developing real-world, applicable projects, and expanding on my current
 skillset to realize my goals. Currently very good at developing algorithms to solve problems, now just learnin the language needed to implement those algorithms!
-Interested in becoming a full stack developer. 
+Interested in becoming a business analyst. 
 
 Currently learning: 
   - Intermediate Python (lambda functions, threading, data structures, advanced logic operations)
-  - Beginner Flask
+  - Learning beginner Flask
   - Intermediate SQL Server/PostgreSQL (sprocs, advanced queries, human input, triggers, timed functions)
-  - Beginner Visual Basic
+  - Learning beginner Visual Basic
 
 After this, I'll be working on HTML/CSS, Node.js, and Javascript.
 
