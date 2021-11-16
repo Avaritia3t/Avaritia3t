@@ -7,10 +7,11 @@ Interested in becoming a business analyst.
 Currently learning: 
   - Intermediate Python (lambda functions, threading, data structures, advanced logic operations)
   - Learning beginner Flask
-  - Intermediate SQL Server/PostgreSQL (sprocs, advanced queries, human input, triggers, timed functions)
+  - Beginner/Intermediate SQL Server/PostgreSQL (bulk data copy, sprocs, advanced queries, human input, triggers, timed functions)
   - Learning beginner Visual Basic
+  - brushing up on HTML/CSS structure and best practices.
 
-After this, I'll be working on HTML/CSS, Node.js, and Javascript.
+After this, I'll be working on advanced HTML/CSS, tensorflow/spacy Python libraries, Node.js, and Javascript.
 
 I’d love to collaborate with and learn from others interested in developing applications from start to finish. I learn best by tackling real problems, not working on sample
 exercises (although I do love a good brain teaser).
