@@ -16,4 +16,4 @@ After this, I'll be working on advanced HTML/CSS, tensorflow/spacy Python librar
 I’d love to collaborate with and learn from others interested in developing applications from start to finish. I learn best by tackling real problems, not working on sample
 exercises (although I do love a good brain teaser).
 
-Ping me on twitter (@Caritas3t), or on LinkedIn (https://www.linkedin.com/in/mathew-alexander-roberts-560255153/).
+Ping me on LinkedIn (https://www.linkedin.com/in/mathew-alexander-roberts-560255153/).
